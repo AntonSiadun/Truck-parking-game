@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Duplicate Asset Isolation
+  m_EditorClassIdentifier: 
+  m_GroupName: Duplicate Asset Isolation
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 3764aea0e5cb64ba9bb479c361480e5d
+  m_SerializeEntries:
+  - m_GUID: 9394021783d194766b0148558f925f4a
+    m_Address: Assets/Physics/Truck.physicsMaterial2D
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 25f27091cfbc943568b53f13a46b9785
+    m_Address: Assets/Sounds/Brakes.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 63b3a6281bc8a4e26a982a8b26eb5618
+    m_Address: Assets/Sounds/Engine.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 30ddd49fccd0e4951890a983c3b3558c
+    m_Address: Assets/Sounds/ReverseBeep.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 57baec2029f3047a39a8896fe2de399d
+    m_Address: Assets/Sprites/Shifter.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 18138f02f3a344bfe8730f3848f4cd94
+    m_Address: Assets/Sprites/Screenshot_2023-04-16_at_16_08_57-transformed-modified-3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 96bc3e7318360490aa94c2669fc2c795
+    m_Address: Assets/Sprites/Parking lot.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1ff96ae32f7c04417b8d7de54e35b8ed
+    m_Address: Assets/Sprites/Screenshot_2023-04-16_at_16_27_06-transformed-removebg-preview
+      1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3eedeb1aacc5b48dd97ffe746ce6171e
+    m_Address: Assets/Sprites/SteeringWheel.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ff2977aaa5fba43eeb87fe4a709f8c17
+    m_Address: Assets/Sprites/Eye.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e776572f95f224877b984f23ee50bf9a
+    m_Address: Assets/Sprites/Pedals.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fe393ace9b354375a9cb14cdbbc28be4
+    m_Address: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e3265ab4bf004d28a9537516768c1c75
+    m_Address: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bf7972631ef8c471b8f2091873b2252e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 766f0911464164378b13ea7001583cc1, type: 2}
+    - {fileID: 11400000, guid: e4d99305b36654f4c8ed122477411533, type: 2}
